@@ -19,7 +19,7 @@ while True:
   # clear the screen 
   os.system("clear")
   # Show the menu
-  print("🎵 My POD Music Player🎵")
+  print("🎵 My Music Player🎵")
   time.sleep(1)
   print("Press 1 to Play")
   time.sleep(1)
